@@ -1,5 +1,5 @@
 {
-  "name": "com-darryncampbell-cordova-plugin-intent",
+  "name": "@currenthealth/com-darryncampbell-cordova-plugin-intent",
   "version": "2.2.0",
   "description": "General purpose intent shim layer for cordova appliations on Android.  Handles various techniques for sending and receiving intents.",
   "publishConfig": {
